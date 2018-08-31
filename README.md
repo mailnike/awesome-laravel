@@ -521,6 +521,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Miscellaneous
 
 * [CodeCanyon](https://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
+* [ZapAccounting - Accounting Simplified](https://www.zaperp.com/accounting) - Simple to use online accounting and invoicing, unlimited use for single users and freelancers. Rebranded from Pi.TEAM
+* [ZapExpense - Expense Simplified](https://www.zaperp.com/expense) - Simple to use online expense management unlimited for single users and freelancers.
+* [ZapInventory - Accounting Simplified](https://www.zaperp.com/inventory) - Simple to use online inventory management for your business, purchase and sales order with inventory tracking.
+* [ZapRealEstate - Real Estate Management Software](https://www.zaperp.com/realestate) - Simple to use online expense management unlimited use for single users and freelancers.
 
 ## Contributing
 
